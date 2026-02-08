@@ -1,17 +1,193 @@
 {
-  "title": "Subaru and Subaru",
+  "title": "Subaru and Subaru (Official)",
   "description": "One year after Takumi Fujiwara’s student Kanata Rivington tore it up on Japan’s mega-popular MFG street racing circuit, two new drivers are itching to try their luck at the event. Their names: Subaru Sato, from Gunma Prefecture, and Subaru Kudo, from Kanagawa. The worlds of Initial D and MF Ghost meld into one as these two Subarus join together to weave the ultimate street racing legend!",
   "artist": "Shuuichi Shigeno",
   "author": "Shuuichi Shigeno",
   "cover": "https://i.imgur.com/ljUSdlm.jpeg",
   "chapters": {
     "1": {
-      "title": "THE GHOST OF AKINA",
+      "title": "The Ghost of Akina",
       "volume": "1",
       "groups": {
-        "KManga": "/proxy/api/imgchest/chapter/ej7mvvxd97d"
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/ej7mvvxd97d"
       },
-      "last_updated": "1616368746"
-    }
+      "last_updated": "1753156800"
+    },
+"2": {
+      "title": "Horror!! Iketani Wrecks his Ride",
+      "volume": "1",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/9249lm3l84n"
+      },
+      "last_updated": "1753675200"
+    },
+"3": {
+      "title": "Fumihiro the Attention Seeker",
+      "volume": "1",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/na7k5282w78"
+      },
+      "last_updated": "1754280000"
+    }, 
+"4": {
+      "title": "The High-Speed Granny vs. Subaru",
+      "volume": "1",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/ej7mvj8ja7d"
+      },
+      "last_updated": "1755489600"
+    }, 
+"5": {
+      "title": "This Ghost is Too Damn Fast! ",
+      "volume": "1",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/m9yxd53564q"
+      },
+      "last_updated": "1756094400"
+    }, 
+"6": {
+      "title": "The Headliner Arrives",
+      "volume": "1",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/ne7bnrqog75"
+      },
+      "last_updated": "1756699200"
+    }, 
+"7": {
+      "title": "The High-Speed Granny vs. The Chosen One",
+      "volume": "1",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/5xy2nx2m8yl"
+      },
+      "last_updated": "1757304000"
+    }, 
+"8": {
+      "title": "The "Comet"",
+      "volume": "1",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/pg7362l337r"
+      },
+      "last_updated": "1757995200"
+    }, 
+"9": {
+      "title": "The Gunsai Seminar",
+      "volume": "1",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/m9yxd53bk4q"
+      },
+      "last_updated": "1759118400"
+    }, 
+"10": {
+      "title": "The Aura of an Ace",
+      "volume": "2",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/5xy2nx2j8yl"
+      },
+      "last_updated": "1759723200"
+    },
+"11": {
+      "title": "Odawara Pikes Peak",
+      "volume": "2",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/lqyenwmrkyd"
+      },
+      "last_updated": "1760414400"
+    },
+"12": {
+      "title": "Destiny's Dawn - One Number Off",
+      "volume": "2",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/m9yxd53pk4q"
+      },
+      "last_updated": "1760932800"
+    },
+"13": {
+      "title": "The Worst Meet-Cute Ever",
+      "volume": "2",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/ljyq5m2pky2"
+      },
+      "last_updated": "1762232400"
+    },
+"14": {
+      "title": "The Lucky Find",
+      "volume": "2",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/pg7362la37r"
+      },
+      "last_updated": "1762750800"
+    },
+"15": {
+      "title": "The Debut Approaches",
+      "volume": "2",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/qe4gpzw9b4j"
+      },
+      "last_updated": "1763355600"
+    },
+"16": {
+      "title": "The Ghost Debuts",
+      "volume": "2",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/9p4nkq8dl4n"
+      },
+      "last_updated": "1764046800"
+    },
+"17": {
+      "title": "The DNA of Driving Skill",
+      "volume": "2",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/wl7l5lojo4x"
+      },
+      "last_updated": "1765170000"
+    },
+"18": {
+      "title": "Subaru Heads Out",
+      "volume": "2",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/lqyenwm5kyd"
+      },
+      "last_updated": "1766379600"
+    },
+"19": {
+      "title": "The Legendary "Only One"",
+      "volume": "2",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/ljyq5m2oky2"
+      },
+      "last_updated": "1767589200"
+    },
+"20": {
+      "title": "Subaru Sato's Challenge",
+      "volume": "3",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/pg7362lvv7r"
+      },
+      "last_updated": "1768280400"
+    },
+"21": {
+      "title": "Lineage Of Legends",
+      "volume": "3",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/agyvjgrkwy8"
+      },
+      "last_updated": "1769403600"
+    },
+"22": {
+      "title": "Auntie Mako",
+      "volume": "3",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/9rydn3rkd4k"
+      },
+      "last_updated": "1770008400"
+    },
+"23": {
+      "title": "Two Contenders",
+      "volume": "3",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/wl7l5loe64x"
+      },
+      "last_updated": "1770613200"
+    },
   }
 }
