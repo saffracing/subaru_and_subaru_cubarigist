@@ -159,7 +159,7 @@
     },
     "20": {
       "title": "Subaru Sato's Challenge",
-      "volume": "3",
+      "volume": "2",
       "last_updated": "1768280400",
       "groups": {
         "KManga/saffracing": "/proxy/api/imgchest/chapter/pg7362lvv7r"
@@ -203,6 +203,14 @@
       "last_updated": "1772380800",
       "groups": {
         "KManga/saffracing": "/proxy/api/imgchest/chapter/wl7l6mb6o7x"
+      }
+    },
+"26": {
+      "title": "Subaru Goes For It!",
+      "volume": "3",
+      "last_updated": "1772982000",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/pg738lk234r"
       }
     }
   }
