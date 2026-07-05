@@ -255,7 +255,7 @@
     },
 "32": {
       "title": "The Dogfight",
-      "volume": "3",
+      "volume": "4",
       "last_updated": "1777215600",
       "groups": {
         "KManga/saffracing": "/proxy/api/imgchest/chapter/md7o3glg97p"
@@ -307,6 +307,14 @@
       "last_updated": "1782658800",
       "groups": {
         "KManga/saffracing": "/proxy/api/imgchest/chapter/m9yxpvnpm4q"
+      }
+    },
+"39": {
+      "title": "Momo Sakura's Indecision",
+      "volume": "4",
+      "last_updated": "1783263600",
+      "groups": {
+        "KManga/saffracing": "/proxy/api/imgchest/chapter/qe4g9jwwoyj"
       }
     }
   }
